@@ -1,0 +1,50 @@
+body{
+    background-image: url("track.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.stopgo{
+    position: absolute;
+    left: 35%;
+    top: 45%;
+}
+.spongebobLane{
+    position: absolute;
+    top: 63%;
+    height: 120px;
+}
+.squidwardLane{
+    position: absolute;
+    top: 80%;
+    height: 125px;
+}
+.patrickLane{
+    position: absolute;
+    top: 93%;
+    height: 120px;
+}
+.startCoach{
+    position: relative;
+    bottom: 90px;
+}
+.startgarry, .startsqdsnail{
+    position: absolute;
+    bottom: 50px;
+    left: 0px;
+}
+.rock{
+    position: absolute;
+    bottom: 50px;
+    left: 0px;
+}
+.winner{
+    position: absolute;
+    left: 71%;
+    bottom: 45%;
+    height: 100px;
+    width: 100px;
+    text-align: center;
+    color: white;
+    font-size: 2em;
+    display: n
+}
